@@ -13,7 +13,6 @@ It shows a good practice for simple exchanging of data files between different r
 
 ## Getting Started
 
-Following
 
 ### Prerequisites
 
@@ -73,3 +72,5 @@ None
 Friedhold Matz, November 2017
 
 ## License
+
+Free License
