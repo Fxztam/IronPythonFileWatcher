@@ -11,6 +11,7 @@ It shows a good practice for simple exchanging of data files between different r
 >**Note:**
 >Use the directories that are applied to the *`FormsFileWatcher Demo`* : https://github.com/Fxztam/FormsFileWatcher
 
+
 ## Getting Started
 
 
@@ -65,7 +66,7 @@ This PoC demo was adapted from : http://www.ironpython.info/index.php?title=Watc
 
 ## Versioning
 
-None
+Proof of Concept version
 
 ## Author
 
