@@ -22,7 +22,8 @@ It shows a good practice for simple exchanging of data files between different r
 - Start the *`FormsFileWatcher Demo`* : https://github.com/Fxztam/FormsFileWatcher or using a file editor for modifying
 
 >**Note:**
->You can also simulate file changes by editing in the watcher directory defined in the *`IronWatcherForms.py`* (step 4.)
+>You can also simulate file changes by editing in the watcher directory 
+>defined in the *`IronWatcherForms.py`* (step 4.)
 
 ### Installing
 
