@@ -1,6 +1,6 @@
 # IronPythonFileWatcher
 
-This demo is a proof of concept for protocolling of file changes (create, update, delete) in a watched directory based on the Microsoft FileSystemWatcher Service.
+This demo is a Proof-of-Concept for protocolling of file changes (create, update, delete) in a watched directory based on the Microsoft FileSystemWatcher Service.
 
 IronPython is an implementation of Python for the Common Language Infrastructure (CLI), the demo was developed in Microsoft Visual Studio Community 2015 Update 3.
 
