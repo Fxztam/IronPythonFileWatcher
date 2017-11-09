@@ -70,11 +70,3 @@ This PoC demo was adapted from : http://www.ironpython.info/index.php?title=Watc
 ## Versioning
 
 Proof of Concept version
-
-## Author
-
-Friedhold Matz, November 2017
-
-## License
-
-Free License
