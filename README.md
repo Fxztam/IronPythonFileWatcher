@@ -59,10 +59,6 @@ Change to the Work-FileWatcher directory and start the IronPython FileWatcher
 ```
 DOS> start_IronWatcher.cmd
 ```
-and this shows the running demo:
-
-<img src="http://www.fmatz.com/IronWatcher.gif">
-
 
 ## Contributing
 
