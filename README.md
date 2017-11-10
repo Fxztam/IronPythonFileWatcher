@@ -11,6 +11,7 @@ It shows a practice for simple exchanging of data files between different runtim
 >**Note:**
 >Use the directories that are applied to the *`FormsFileWatcher Demo`* : https://github.com/Fxztam/FormsFileWatcher
 
+<img src="http://www.fmatz.com/IronWatcher.gif">
 
 ## Getting Started
 
